@@ -1,0 +1,8 @@
+# Print numbers 1 to 5
+for i in range(1, 6):
+    print(i)
+    # Loop through a string
+word = "Python"
+
+for letter in word:
+    print(letter)
